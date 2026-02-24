@@ -1,0 +1,5 @@
+*/build/*
+.lock-waf_darwin_build
+.vscode
+.DS_store
+!*/build/scroll-layer-crash.pbw
